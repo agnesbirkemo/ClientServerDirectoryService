@@ -1,4 +1,4 @@
-# README for eksamen IN2040 vår 24
+
 Jeg har implementert alle metoder som er etterspurt i oppgateksten/som er i prekoden, og i tillegg opprettet egne hjelpemetoder som blir av metodene i prekoden. Dermed blir mindre funksjonalitet samlet på ett sted som gjør koden enklere å forstå og debugge. Under har jeg beskrevet hvordan jeg har implementert metodene med eventuelle antakelser og refleksjoner.
 
 Jeg har en del printfer i koden for å følge med på hva som skjer i koden. Etter å ha forhørt med med Carsten lar de jeg de bli. Jeg har kommentert ut noen av printfene for å korte ned litt på outputen.
