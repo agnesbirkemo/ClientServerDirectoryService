@@ -1,6 +1,6 @@
 
 
-Jeg har kjørt koden med valgrind som spesisfisert i oppgaveteksten og får ingen minnelekasjer: *valgrind --leak-check=full --track-origins=yes   --show-leak-kinds=all -s*
+Jeg har kjørt koden med valgrind som spesifisert i oppgaveteksten og får ingen minnelekasjer: *valgrind --leak-check=full --track-origins=yes   --show-leak-kinds=all -s*
 
 ## D1 Client
 
