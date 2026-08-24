@@ -1,4 +1,4 @@
-
+Tester tester commits
 
 Jeg har kjørt koden med valgrind som spesifisert i oppgaveteksten og får ingen minnelekasjer: *valgrind --leak-check=full --track-origins=yes   --show-leak-kinds=all -s*
 
